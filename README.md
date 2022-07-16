@@ -15,5 +15,5 @@ flutter run
 link to apk : https://drive.google.com/file/d/10SegUdxqVJ6wFg4qgbbaV6H9g_cdYkgo/view?usp=sharing
 ## Issues
 
-The Svg Images from the svg are no svg compatible, reason why I used a color for it's background
+The Svg Images from the endpoint are not svg compatible, reason why I used a color for it's background
 
