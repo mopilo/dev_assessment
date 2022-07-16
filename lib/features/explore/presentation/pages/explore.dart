@@ -185,7 +185,7 @@ class _ExploreState extends State<Explore> {
                                       borderRadius: BorderRadius.all(
                                           Radius.circular(17.r)),
                                       child: Container(
-                                        color: Colors.red,
+                                        color: const Color(0xfff3f3f3),
                                         child: SvgPicture.network(meal.image!,
                                             semanticsLabel: 'Meals',
                                             fit: BoxFit.cover,
